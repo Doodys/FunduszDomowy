@@ -1,0 +1,43 @@
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\FunduszDomowy.exe.config
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\FunduszDomowy.exe
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\FunduszDomowy.pdb
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\EAGetMail.dll
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\obj\Debug\FunduszDomowy.csprojAssemblyReference.cache
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\obj\Debug\FunduszDomowy.csproj.CoreCompileInputs.cache
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\obj\Debug\FunduszDomowy.csproj.CopyComplete
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\obj\Debug\FunduszDomowy.exe
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\obj\Debug\FunduszDomowy.pdb
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\System.Data.OleDb.dll
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\System.Data.OleDb.xml
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.Common.dll
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.License.dll
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.Pdf.dll
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.XLS.dll
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Microsoft.mshtml.dll
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.Common.xml
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.License.xml
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.Pdf.xml
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.XLS.xml
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\GemBox.Spreadsheet.dll
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\FunduszDomowy.exe.config
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\FunduszDomowy.exe
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\FunduszDomowy.pdb
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\EAGetMail.dll
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\Spire.Common.dll
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\Spire.License.dll
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\Spire.Pdf.dll
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\Spire.XLS.dll
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\System.Data.OleDb.dll
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\Microsoft.mshtml.dll
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\Spire.Common.xml
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\Spire.License.xml
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\Spire.Pdf.xml
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\Spire.XLS.xml
+C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\System.Data.OleDb.xml
+C:\Users\mdudys\Desktop\FunduszDomowy\obj\Debug\FunduszDomowy.csprojAssemblyReference.cache
+C:\Users\mdudys\Desktop\FunduszDomowy\obj\Debug\FunduszDomowy.csproj.CopyComplete
+C:\Users\mdudys\Desktop\FunduszDomowy\obj\Debug\FunduszDomowy.exe
+C:\Users\mdudys\Desktop\FunduszDomowy\obj\Debug\FunduszDomowy.pdb

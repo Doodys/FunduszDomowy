@@ -1,0 +1,5 @@
+Mail=xxx
+Password=xxx
+Bank=powiadomienia@pkobp.pl
+ExcelLang=PL
+SaveDir=C:\Users\mdudys\Desktop\
