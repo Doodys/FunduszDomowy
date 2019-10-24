@@ -1,5 +1,5 @@
-Mail=dudys.michal@gmail.com
-Password=1q0a2m9j
+Mail=xxx
+Password=xxx
 Bank=powiadomienia@pkobp.pl
 ExcelLang=PL
 SaveDir=C:\Users\dudys\Desktop\
