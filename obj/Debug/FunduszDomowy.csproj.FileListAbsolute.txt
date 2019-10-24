@@ -7,17 +7,6 @@ E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\obj\Debug\FunduszDomowy.csproj.C
 E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\obj\Debug\FunduszDomowy.csproj.CopyComplete
 E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\obj\Debug\FunduszDomowy.exe
 E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\obj\Debug\FunduszDomowy.pdb
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\System.Data.OleDb.dll
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\System.Data.OleDb.xml
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.Common.dll
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.License.dll
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.Pdf.dll
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.XLS.dll
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Microsoft.mshtml.dll
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.Common.xml
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.License.xml
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.Pdf.xml
-E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\Spire.XLS.xml
 E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\GemBox.Spreadsheet.dll
 E:\WSZELAKA_INFA\PROGRAMOWANIE C#\FunduszDomowy\bin\Debug\GemBox.Spreadsheet.xml
 C:\Users\mdudys\Desktop\FunduszDomowy\bin\Debug\FunduszDomowy.exe.config
