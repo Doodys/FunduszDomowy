@@ -28,8 +28,9 @@ namespace FunduszDomowy
                     }
                 }
 
-                if (oWorksheet.Cells["B2"].Value == null || oWorksheet.Cells["C2"].Value == null || oWorksheet.Cells["D2"].Value == null || oWorksheet.Cells["F2"].Value == null)
+                if (oWorksheet.Cells["B2"].Value == null || oWorksheet.Cells["C2"].Value == null || oWorksheet.Cells["D2"].Value == null || oWorksheet.Cells["F2"].Value == null || oWorksheet.Cells["A2"].Value == null)
                 {
+                    oWorksheet.Cells["A2"].Value = "+/-";
                     oWorksheet.Cells["B2"].Value = "Kwota";
                     oWorksheet.Cells["C2"].Value = "Data";
                     oWorksheet.Cells["D2"].Value = "Godzina";
@@ -46,6 +47,7 @@ namespace FunduszDomowy
                 }
 
                 //columns' width
+                oWorksheet.Columns["A"].SetWidth(15, LengthUnit.ZeroCharacterWidth);
                 oWorksheet.Columns["B"].SetWidth(15, LengthUnit.ZeroCharacterWidth);
                 oWorksheet.Columns["C"].SetWidth(15, LengthUnit.ZeroCharacterWidth);
                 oWorksheet.Columns["D"].SetWidth(15, LengthUnit.ZeroCharacterWidth);
@@ -56,15 +58,18 @@ namespace FunduszDomowy
                 var style = new CellStyle();
                 style.HorizontalAlignment = HorizontalAlignmentStyle.Center;
                 style.VerticalAlignment = VerticalAlignmentStyle.Center;
-                style.FillPattern.SetSolid(Color.CornflowerBlue);
+                style.FillPattern.SetSolid(Color.Goldenrod); //yellowgreen, tomato
                 style.Font.Weight = ExcelFont.BoldWeight;
                 style.Font.Color = Color.White;
 
+                oWorksheet.Cells["A2"].Style = style;
                 oWorksheet.Cells["B2"].Style = style;
                 oWorksheet.Cells["C2"].Style = style;
                 oWorksheet.Cells["D2"].Style = style;
                 oWorksheet.Cells["F2"].Style = style;
                 oWorksheet.Cells["G2"].Style = style;
+
+                if(Convert.ToDouble(oWorksheet.Cells["G2"].Value) > 0) oWorksheet.Cells["F2"].Value = "Suma oszczędności: ";
 
                 workbook.Save(sExcelFileDir + "Fundusz_Domowy.xlsx");
             }
@@ -110,16 +115,22 @@ namespace FunduszDomowy
 
             long iLast = lList[lList.Count - 1];
             iLast++;
+            if(Convert.ToDouble(lData[0]) > 0) oWorksheet.Cells["A" + iLast].Value = "INCOME";
+            else oWorksheet.Cells["A" + iLast].Value = "OUTCOME";
+
             oWorksheet.Cells["B" + iLast].SetValue(Convert.ToDouble(lData[0]));
             oWorksheet.Cells["C" + iLast].Value = lData[1];
             oWorksheet.Cells["D" + iLast].Value = lData[2];
 
-            sCellStart = "B" + iLast.ToString();
+            sCellStart = "A" + iLast.ToString();
             sCellEnd = "D" + iLast.ToString();
 
             var style = new CellStyle();
             style.HorizontalAlignment = HorizontalAlignmentStyle.Center;
             style.VerticalAlignment = VerticalAlignmentStyle.Center;
+
+            if (Convert.ToDouble(lData[0]) > 0) style.FillPattern.SetSolid(Color.YellowGreen);
+            else style.FillPattern.SetSolid(Color.Tomato);
 
             oWorksheet.Cells.GetSubrange(sCellStart + ":" + sCellEnd).Style = style;
             oWorksheet.Cells.GetSubrange(sCellStart + ":" + sCellEnd).Style.Borders.SetBorders(MultipleBorders.All, Color.Black, LineStyle.Thin);

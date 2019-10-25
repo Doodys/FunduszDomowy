@@ -29,12 +29,8 @@ namespace FunduszDomowy
 
         static void Main(string[] args)
         {
-
             SpreadsheetInfo.SetLicense("FREE-LIMITED-KEY");
-
             oExcel.CreateSpreadsheet();
-
-            //Console.ReadKey();
 
             try
             {
