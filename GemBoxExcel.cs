@@ -69,7 +69,7 @@ namespace FunduszDomowy
                 oWorksheet.Cells["F2"].Style = style;
                 oWorksheet.Cells["G2"].Style = style;
 
-                if(Convert.ToDouble(oWorksheet.Cells["G2"].Value) > 0) oWorksheet.Cells["F2"].Value = "Suma oszczędności: ";
+                if (Convert.ToDouble(oWorksheet.Cells["G2"].Value) > 0) oWorksheet.Cells["F2"].Value = "Suma oszczędności: ";
 
                 workbook.Save(sExcelFileDir + "Fundusz_Domowy.xlsx");
             }
