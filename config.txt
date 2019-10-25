@@ -1,0 +1,5 @@
+Mail=xxx
+Password=xxx
+Bank=xxx
+ExcelLang=PL
+SaveDir=xxx
